@@ -1,5 +1,5 @@
 # :book: Teste 5 de C# .NET :book:
-## comandos com strings e números
+## Alguns Comandos com strings e números
 * métodos em strings;
 * métodos em arrays, como .Join;
 * um pouco sobre números;

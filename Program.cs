@@ -25,7 +25,7 @@
         Console.Write("Digite um número: ");
         string number = Console.ReadLine();
 
-        if (int.TryParse(number, out int x))  // podemos conferir se o que foi digitado é um númro
+        if (int.TryParse(number, out int x))  // podemos conferir se o que foi digitado é um número
         {
             Console.WriteLine("Sucesso, é um número: " + (x));
         }
