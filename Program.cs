@@ -37,14 +37,26 @@
 
 
         int i = 10;
-        long l = 10123;
+        long l = 1000000000000000;
 
       //  l = i; estamos fazendo uma conversão implícita.
       //  i = l; neste caso não podemos fazer, pois int armazena até 32-bit e long até 64-bit;
-        i = (int)l; // estamos fazendo uma conversão explícita;
+      // então, implicitamente o compilador não aceita.
+
+        i = (int)l; 
+        // estamos fazendo uma conversão explícita. Nesse caso, caso o valor seja maior do
+        // que caberia em i, os dados serão perdidos e apresentados de forma diferente do esperado.
+        // ou seja, até é possível forçarmos o compilador a fazer a conversão de forma explícita,
+        // mas se os valores forem maior do que o i consegue armazenar, dará erro.
         
-        
-        Console.WriteLine(i);
+        Console.WriteLine(i); // neste caso, dará erro e o número que será impresso será diferente.
+
+
+        string s = l.ToString(); // neste caso, transformando o número em string, é possível imprimí-lo sem
+        // dar erro, pois ele passa a ser uma string.
+
+        Console.WriteLine(s); // neste caso ele imprime o valor correto de l.
+    
 
 }       
     }
