@@ -1,0 +1,15 @@
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\teste5.exe
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\teste5.deps.json
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\teste5.runtimeconfig.json
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\teste5.dll
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\ref\teste5.dll
+C:\Users\vntrodo\desktop\estudos\github\teste5\bin\Debug\net6.0\teste5.pdb
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.csproj.AssemblyReference.cache
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.AssemblyInfoInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.AssemblyInfo.cs
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.csproj.CoreCompileInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.dll
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\ref\teste5.dll
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.pdb
+C:\Users\vntrodo\desktop\estudos\github\teste5\obj\Debug\net6.0\teste5.genruntimeconfig.cache
